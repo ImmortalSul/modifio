@@ -7,9 +7,7 @@
 **✅WebAssembly**
 **✅FFMEG**
 
-👉 [Live Demo](https://modifio.vercel.app/) 👈
-
-👉 [Check out this YouTube video about the project](https://youtu.be/ypYw6Cm6cUk) 👈
+👉 [Live Demo](https://modifio-neon.vercel.app/) 👈
 
 ![HomePage](https://i.imgur.com/SCTf3Ce.png)
 
